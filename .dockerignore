@@ -1,0 +1,10 @@
+# Default
+*
+
+# Project
+!lib/
+!test/
+!spec/
+!.sequelizerc
+!.nycrc
+!package*.json
