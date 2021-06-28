@@ -68,5 +68,5 @@ jobs:
         with:
           node-version: '12.18.0'
       - name: Dependency Checker
-        run: npm run depcheck
+        run: depcheck
 
